@@ -13,7 +13,7 @@ public final class ChatAPI extends JavaPlugin {
         Chat api = new Chat();
 
 
-        //this.getCommand("test").setExecutor(new test());
+        //this.getCommand("tedst").setExecutor(new test());
 
     }
 
