@@ -1,0 +1,8 @@
+name: ChatAPI
+version: '${project.version}'
+main: d.studio.chatapi.ChatAPI
+api-version: '1.17'
+
+commands:
+  test:
+    description: asd
